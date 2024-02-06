@@ -1,0 +1,21 @@
+h1{
+    text-align: left;
+    margin-left:200px;
+}
+
+.card{
+    text-align: center;
+}
+
+.card-body{
+    background-color: rgb(197, 198, 208);
+     width:500px;
+    height: 150px;
+text-align: center;
+font-weight: 1000;
+border-radius: 15px;
+border: 5px solid gray;
+margin: 30px;
+
+}
+
